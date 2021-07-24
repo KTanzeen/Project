@@ -1,0 +1,3 @@
+1. tuitionpost.php -> topicwise - (post type A)
+	tuitionpost1.php -> hourly (B)
+	tuitionpost2.php -> filter (c)

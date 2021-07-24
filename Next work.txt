@@ -1,0 +1,1 @@
+t_counselling.php file e comment theke database e data insert er kaj korte hobe
